@@ -1,0 +1,17 @@
+1. Question: What is photosynthesis?
+
+AI Response: Photosynthesis is the process by which green plants use sunlight, water, and carbon dioxide to produce glucose and oxygen.
+
+Reference Answer: Photosynthesis converts light energy into chemical energy. Plants use carbon dioxide and water to produce glucose and release oxygen.
+
+2. Question: What is machine learning?
+
+AI Response: Machine learning is a subset of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Reference Answer: Machine learning is a branch of artificial intelligence that enables systems to learn from data and improve their performance without explicit programming.
+
+3. Question: What is the capital of Australia?
+
+AI Response: Sydney is the capital of Australia. It is also the largest city in the country.
+
+Reference Answer: Canberra is the capital of Australia.
